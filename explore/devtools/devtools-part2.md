@@ -1,6 +1,6 @@
 **What was the bug?**\
 at line 11:\
-`let result = num1 + num2`
+`let result = num1 + num2`\
 This is using string concatenation. For example, when I tried inputting 1 and 12, it output 112 instead of 13.
 
 
